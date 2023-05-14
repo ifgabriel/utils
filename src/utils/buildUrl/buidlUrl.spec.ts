@@ -1,4 +1,3 @@
-
 import buildUrl from '.'
 
 describe('buildUrl', () => {

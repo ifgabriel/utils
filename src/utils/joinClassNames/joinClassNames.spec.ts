@@ -1,4 +1,3 @@
-
 import joinClassNames from '.'
 
 describe('joinClassNames', () => {

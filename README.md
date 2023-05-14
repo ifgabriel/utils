@@ -1,8 +1,6 @@
-## Kanban
+## Utils
 
-This project consists of a simple kanban, where the user can create, edit and delete tasks.
-
-The project was created in order to demonstrate how to use [`mirageJS`](https://miragejs.com) and control requests.
+In this repository I created some reusable functions in several repositories
 
 # Getting Started with Create React App
 
